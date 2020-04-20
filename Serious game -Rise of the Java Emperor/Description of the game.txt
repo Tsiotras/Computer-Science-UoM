@@ -1,0 +1,5 @@
+The main purpose of this serious game is to introduce students to the basic programming concepts of Java. 
+This game does not have any prerequisites and is best fitted for players with no previous knowledge of programming. 
+There is only a desktop version of this game for Windows, which has to be downloaded to the players’ computers in order to be played.
+
+Made in Unity Engine and was implemented using the programming language C#.
